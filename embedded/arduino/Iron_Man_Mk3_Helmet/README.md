@@ -35,7 +35,7 @@ This project combines mechanical design, embedded electronics, and sound synchro
 
 **Demo Video**
 
-https://github.com/rnelson-electronics/hardware-projects/blob/main/embedded/arduino/Iron_Man_Mk3_Helmet/iron_man_mk3_helmet_vid.mp4
+[Demo Video](https://github.com/rnelson-electronics/hardware-projects/blob/main/embedded/arduino/Iron_Man_Mk3_Helmet/media/iron_man_mk3_helmet_vid.mp4)
 
 *(Short demo of faceplate actuation, LED sequence, and sound effects.)*
 
