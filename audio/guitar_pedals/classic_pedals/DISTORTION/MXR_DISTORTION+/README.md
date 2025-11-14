@@ -54,6 +54,15 @@ This version was redesigned in **KiCad** to practice schematic capture, PCB layo
 
 ![Routing View](renders/PCB/routing.png)
 
+## Build Photos
+
+### Bare PCB
+
+![Bare Front](photos/build/bare_board.jpeg)
+
+### Partially Assembled PCB (For Testing Purposes)
+![Partial Assembly](photos/build/prototype_build.jpeg)
+
 ---
 
 ## Schematic
